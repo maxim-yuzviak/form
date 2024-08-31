@@ -1,0 +1,75 @@
+textarea {
+    resize: none;
+    width: 553px;
+    height: 189px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 557px;
+    outline: 1px solid slateblue;
+    margin-left: 147px;
+    margin-top: 179px;
+}
+
+.button {
+    width: 218px;
+    height: 73px;
+    background-color: #FAD34F;
+    border-radius: 500px;
+    border: 0;
+    color: white;
+    margin-top: 23px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+.txt-area {
+    border-radius: 10px;
+    margin-top: 8px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+.name {
+    border-radius: 10px;
+    width: 552px;
+    height: 93px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+.email {
+    border-radius: 10px;
+    width: 552px;
+    height: 93px;
+    margin-top: 8px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+.text {
+    font-size: 40px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
